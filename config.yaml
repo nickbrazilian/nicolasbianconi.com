@@ -1,0 +1,52 @@
+# exampleSite/config.yaml
+baseURL: https://nicolasbianconi.com/ # Replace with your domain
+languageCode: en-us
+theme: smigle
+#themesDir: ../.. # Only needed for running the example site
+title: Welcome to nicolasbianconi.com
+menu:
+  main: # Change menu as needed
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 2
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 3
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 4
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 6
+    - identifier: rss
+      name: RSS
+      url: /index.xml
+      weight: 6
+params:
+  abbrDateFmt: "Fev 28"
+  author: "Nicolas Bianconi"
+  brandIconFile: "images/brandIcon.svg"
+  dateFmt: "2006-01-02"
+  abbrDateFmt: "Jan 2"   # Abbreviated date format
+  ##
+  ## Options for overriding theme or page defaults
+  ##
+  #customStylesheets: # Use to override theme styles, like logo size
+  #  - "css/custom.css"
+  #readingSpeed: 600 # Use to set custom reading speed
+  #readingSpeedMin: 25 # Use to set custom reading speed range
+  #readingSpeedMax: 175 # Use to set custom reading speed range
+  social:
+    - name: GitHub
+      url: https://github.com/nickbrazilian
+    - name: GitLab
+      url: https://stackoverflow.com/users/3417846/ian-s-mcb
+  subtitle: "TestXXX"

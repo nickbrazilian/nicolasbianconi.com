@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Continuous-Learning on Welcome to nicolasbianconi.com</title>
+    <link>http://localhost:1313/tags/continuous-learning/</link>
+    <description>Recent content in Continuous-Learning on Welcome to nicolasbianconi.com</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/continuous-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Path to Becoming a 10x Developer</title>
+      <link>http://localhost:1313/posts/what-it-takes-to-be-10x/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/what-it-takes-to-be-10x/</guid>
+      <description>DISCLAIMER: A Junior Developer&amp;rsquo;s Aspiration As a junior developer, I recognize I&amp;rsquo;m still early in my career. However, I&amp;rsquo;m driven to understand and pursue the path to becoming a 10x developer. Please consider this article as a reflection of my current understanding and a roadmap for my growth.&#xA;Defining a 10x Developer Imagine a project with 50,000 lines of code in an unfamiliar language. You&amp;rsquo;re tasked with fixing a complex bug and implementing a new feature.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antisocial on Welcome to nicolasbianconi.com</title>
+    <link>http://localhost:1313/tags/antisocial/</link>
+    <description>Recent content in Antisocial on Welcome to nicolasbianconi.com</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/antisocial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I don&#39;t have any friends or hobbies, and it is worth it.</title>
+      <link>http://localhost:1313/posts/friends-and-hobbies/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/friends-and-hobbies/</guid>
+      <description>Test</description>
+    </item>
+  </channel>
+</rss>

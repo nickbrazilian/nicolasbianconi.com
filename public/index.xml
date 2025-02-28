@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to nicolasbianconi.com</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Welcome to nicolasbianconi.com</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Becoming billionarie life style</title>
+      <link>http://localhost:1313/posts/become-billionarie-lifestyle/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/become-billionarie-lifestyle/</guid>
+      <description>Sometimes you are better without any friends </description>
+    </item>
+    <item>
+      <title>I don&#39;t have any friends or hobbies, and it is worth it.</title>
+      <link>http://localhost:1313/posts/friends-and-hobbies/</link>
+      <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/friends-and-hobbies/</guid>
+      <description>Sometimes you are better without any friends If life was a videogame i would be still in the early game.&#xA;People in the early game are not worthwhile.&#xA;I had friends before but i completely cut ties with them since i stopped playing video games, eating junk food or going to young/teen parties. since these are harmfull activies that do evoke anything good. Stopped talking to friends in the gym because i go to the gym to work out not talk.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Contact: nicolas@nicolasbianconi.com&#xA;Technical people can know more about me in here &amp;mdash;&amp;gt; https://nicolasbianconi.com/terminalcv/ I am from Brazil, 23 y/o, I don&amp;rsquo;t have any friends or hobbies.&#xA;https://nicolasbianconi.com/posts/friends-and-hobbies.md&#xA;Obcessed with high performance on my work.&#xA;https://nicolasbianconi.com/posts/become-billionarie-lifestyle.md&#xA;Want to be known as a 10x dev/person.&#xA;https://nicolasbianconi.com/posts/what-it-takes-to-be-10x.md&#xA;Here are some of my projects:&#xA;Monero Contract System (MVP) https://github.com/nickbrazilian/monero_contract_system&#xA;Autonomous Dencralized Escrow Sytem (AES) (https://ades.nicolasbianconi.com) (coming soon)</description>
+    </item>
+  </channel>
+</rss>
