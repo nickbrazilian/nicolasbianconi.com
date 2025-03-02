@@ -9,11 +9,9 @@ layout: default
 
 # CV : https://nicolasbianconi.com/nicolas_bianconi.pdf
 
-I am from Brazil, 23 y/o, I don't have any friends or hobbies.
+I am from Brazil, 23 y/o, I don't have any friends or hobbies. https://nicolasbianconi.com/posts/friends-and-hobbies.md
 
-https://nicolasbianconi.com/posts/friends-and-hobbies.md
-
-Want to be known as a 10x dev.
+All i do with my life is to pursue obsessevily having the status of a 10x software engineer.
 
 **Here are some of my projects:**
 
