@@ -17,7 +17,7 @@ If life was a videogame i would be still in the early game.
 
 People in the early game are not worthwhile.
 
-I had friends before but i completely cut ties with them since i stopped playing video games, eating junk food or going to young/teen parties. since these are harmfull activies that do evoke anything good. Stopped talking to friends in the gym because i go to the gym to work out not talk.
+I had friends before but i completely cut ties with them since i stopped playing video games, eating junk food or going to young/teen parties. since these are harmfull activies that do not evoke anything good. Stopped talking to friends in the gym because i go to the gym to work out not talk.
 
 I have people above me that mentor and help me, but i am not worthy of their friendship. They themselfes, for being people of high caliber, don't have any friends too, because they don't have time and rarely there is someone worth it.
 

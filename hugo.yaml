@@ -30,6 +30,11 @@ menu:
       name: RSS
       url: /index.xml
       weight: 6
+    - identifier: CV
+      name: CV
+      url: /nicolas_bianconi.pdf
+      weight: 7
+
 params:
   abbrDateFmt: "Jan 2"
   author: "Nicolas Bianconi"
