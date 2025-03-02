@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>High Performance on Welcome to nicolasbianconi.com</title>
-    <link>https://nicolasbianconi.com/tags/high-performance/</link>
+    <link>http://localhost:1313/tags/high-performance/</link>
     <description>Recent content in High Performance on Welcome to nicolasbianconi.com</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nicolasbianconi.com/tags/high-performance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/high-performance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I don&#39;t have any friends or hobbies, and it is worth it.</title>
-      <link>https://nicolasbianconi.com/posts/friends-and-hobbies/</link>
+      <link>http://localhost:1313/posts/friends-and-hobbies/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://nicolasbianconi.com/posts/friends-and-hobbies/</guid>
+      <guid>http://localhost:1313/posts/friends-and-hobbies/</guid>
       <description>Sometimes you are better without any friends If life was a videogame i would be still in the early game.&#xA;People in the early game are not worthwhile.&#xA;I had friends before but i completely cut ties with them since i stopped playing video games, eating junk food or going to young/teen parties. since these are harmfull activies that do not evoke anything good. Stopped talking to friends in the gym because i go to the gym to work out not talk.</description>
     </item>
   </channel>

@@ -2,25 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to nicolasbianconi.com</title>
-    <link>https://nicolasbianconi.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Welcome to nicolasbianconi.com</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://nicolasbianconi.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monero Contract System</title>
+      <link>http://localhost:1313/posts/monero_contract_system/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/monero_contract_system/</guid>
+      <description>What is the Monero Contract System? This the idea a web application written in rust making possible for anyone hosting their own escrow service website.&#xA;It is written in rust actix but i am open to build in any other rust framework, even other language.&#xA;This is the MVP: Monero Contract System MVP&#xA;THANKS FOR READING! </description>
+    </item>
     <item>
       <title>I don&#39;t have any friends or hobbies, and it is worth it.</title>
-      <link>https://nicolasbianconi.com/posts/friends-and-hobbies/</link>
+      <link>http://localhost:1313/posts/friends-and-hobbies/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://nicolasbianconi.com/posts/friends-and-hobbies/</guid>
+      <guid>http://localhost:1313/posts/friends-and-hobbies/</guid>
       <description>Sometimes you are better without any friends If life was a videogame i would be still in the early game.&#xA;People in the early game are not worthwhile.&#xA;I had friends before but i completely cut ties with them since i stopped playing video games, eating junk food or going to young/teen parties. since these are harmfull activies that do not evoke anything good. Stopped talking to friends in the gym because i go to the gym to work out not talk.</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://nicolasbianconi.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nicolasbianconi.com/about/</guid>
-      <description>Contact: nicolas@nicolasbianconi.com CV : https://nicolasbianconi.com/nicolas_bianconi.pdf I am from Brazil, 23 y/o, I don&amp;rsquo;t have any friends or hobbies.&#xA;https://nicolasbianconi.com/posts/friends-and-hobbies.md&#xA;Want to be known as a 10x dev.&#xA;Here are some of my projects:&#xA;Monero Contract System (MVP) https://github.com/nickbrazilian/monero_contract_system&#xA;Autonomous Dencralized Escrow Sytem (AES) (https://ades.nicolasbianconi.com) (coming soon)</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Contact: nicolas@nicolasbianconi.com CV : https://nicolasbianconi.com/nicolas_bianconi.pdf I am from Brazil, 23 y/o, I don&amp;rsquo;t have any friends or hobbies. https://nicolasbianconi.com/posts/friends-and-hobbies.md&#xA;All i do with my life is to pursue obsessevily having the status of a 10x software engineer.&#xA;Here are some of my projects:&#xA;Monero Contract System (MVP) https://github.com/nickbrazilian/monero_contract_system&#xA;Autonomous Dencralized Escrow Sytem (AES) (https://ades.nicolasbianconi.com) (coming soon)</description>
     </item>
   </channel>
 </rss>

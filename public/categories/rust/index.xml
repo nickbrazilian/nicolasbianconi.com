@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rust on Welcome to nicolasbianconi.com</title>
+    <link>http://localhost:1313/categories/rust/</link>
+    <description>Recent content in Rust on Welcome to nicolasbianconi.com</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I don&#39;t have any friends or hobbies, and it is worth it.</title>
+      <link>http://localhost:1313/posts/monero_contract_system/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/monero_contract_system/</guid>
+      <description>What is the Monero Contract System? This the idea a web application written in rust making possible for anyone hosting their own escrow service website.&#xA;It is written in rust actix but i am open to build in any other rust framework, even other language.&#xA;This is the MVP: Monero Contract System MVP&#xA;THANKS FOR READING! </description>
+    </item>
+  </channel>
+</rss>
