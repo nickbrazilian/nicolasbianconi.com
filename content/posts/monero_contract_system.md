@@ -17,7 +17,9 @@ tags:
 
 # What is the Monero Contract System?
 
-This is the idea a web application written in rust making possible for anyone hosting their own escrow service website.
+This is the idea of a web application written in rust making possible for anyone hosting their own escrow service website.
+
+It is intended to use no javascript and to improve people freedom.
 
 It is written in rust **actix** but i am open to build in any other rust framework, even other language.
 
